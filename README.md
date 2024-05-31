@@ -1,6 +1,6 @@
 # Dubizzle Company Used Cars Sales Dashboard (Group9 Project)
 
-![Dubizzle Company Used Cars Sales Dashboard](capstonedashboard)
+![Dubizzle Company Used Cars Sales Dashboard](Capstonedashboard.png)
 
 ## Dataset Source
 
